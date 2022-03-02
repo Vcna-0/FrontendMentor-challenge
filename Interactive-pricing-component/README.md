@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
+- [Solution URL](https://www.frontendmentor.io/solutions/interactivepricingcomponent-htmlcss-and-javascript-BcEnoy4h5)
 - [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Interactive-pricing-component/)
 
 ## My process
