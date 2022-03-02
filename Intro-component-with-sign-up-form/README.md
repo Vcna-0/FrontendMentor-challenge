@@ -53,7 +53,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-with-html5-css-and-js-5NyDE3560)
-- [Live Site URL](https://vcna-0.github.io/Intro-component-with-sign-up-form-/)
+- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Intro-component-with-sign-up-form/)
 
 ## My process
 
