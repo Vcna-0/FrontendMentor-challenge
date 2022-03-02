@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="grids.css">
+  <link rel="stylesheet" href="style.css">
+  <title>Frontend Mentor | Time tracking dashboard</title>
+
+</head>
+<body>
+
+  <main>
+    <div class="grid">
+      <div class="profil">
+        <div class="profil__header">
+          <img class="profil__header-img" src="images/image-jeremy.png" alt="">
+          <div>
+            <p class="profil__header-p">Report for</p>
+            <h1 class="profil__header-name">Jeremy Robson</h1>
+          </div>
+        </div>
+          <div class="profil__option">
+            <button class="profil__option-btn profil__option-btn--is-hover" id="btn-daily">Daily</button>
+            <button class="profil__option-btn profil__option-btn--is-hover" id="btn-weekly">Weekly</button>
+            <button class="profil__option-btn profil__option-btn--is-hover" id="btn-monthly">Monthly</button>
+          </div>
+      </div>
+
+      <div class="grid__cards">
+        <div class="cards__bg cards__bg-work">
+          <img class="cards__bg-img" src="images/icon-work.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Work</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="cards__bg cards__bg-play">
+          <img class="cards__bg-img" src="images/icon-play.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Play</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="cards__bg cards__bg-study">
+          <img class="cards__bg-img" src="images/icon-study.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Study</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="cards__bg cards__bg-exercise">
+          <img class="cards__bg-img" src="images/icon-exercise.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Exercise</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="cards__bg cards__bg-social">
+          <img class="cards__bg-img" src="images/icon-social.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Social</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="cards__bg cards__bg-SelfCare">
+          <img class="cards__bg-img" src="images/icon-self-care.svg" alt="">
+          <div class="card card--is-active">
+            <div class="card__header">
+              <h2 class="card__header-title">Self Care</h2>
+              <img class="card__header-option card__header-option--is-active" src="images/icon-ellipsis.svg" alt="">
+            </div>
+            <div class="card__content">
+              <h3 class="card__content-time">32hrs</h3>
+              <p class="card__content-lastTime">Last Week - <span class="last">8hrs</span></p>
+            </div>
+          </div>
+        </div>
+    </div>
+  </main>
+  <!-- <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div> -->
+  <script src="index.js"></script>
+</body>
+</html>
