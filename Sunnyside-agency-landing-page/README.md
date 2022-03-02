@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-html5-flexbox-and-sass-7DFcuLS-7)
-- [Live site URL](https://vcna-0.github.io/Sunnyside-agency-landing-page/)
+- [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Sunnyside-agency-landing-page/)
 
 ## My process
 
