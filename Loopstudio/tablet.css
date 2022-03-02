@@ -1,0 +1,175 @@
+@media all and (max-width: 900px) {
+  /* ===============MENU HAMBURGER=============== */
+
+  .menu-base {
+    display: none !important;
+  }
+
+  .center-container {
+    width: 90%;
+    margin: auto;
+  }
+
+  .ham {
+    position: fixed;
+    z-index: 100;
+    top: 1rem;
+    right: 1rem;
+    width: 3rem;
+    height: 3rem;
+    border: transparent solid 1px;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  .xIcon {
+    display: none;
+  }
+
+  .menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    color: white;
+    transform: translateY(-100%);
+    transition: transform 0.2s;
+    list-style: none;
+    padding-top: 4rem;
+    font-family: "Josefin Sans", sans-serif;
+  }
+
+  .showMenu {
+    transform: translateY(0);
+  }
+
+  li {
+    padding: 1rem 0;
+  }
+
+  .menuLink {
+    display: inline;
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+  }
+
+  .menuLink:hover {
+    text-decoration: underline;
+  }
+
+  .logo-ham {
+    position: absolute;
+    top: 1.4rem;
+    left: 2rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .item-link {
+    margin-left: 1.1rem;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+  }
+
+  /* ===============SECTION=============== */
+
+  .btn-desk {
+    display: none;
+  }
+
+  .btn-phone {
+    display: block !important;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+  }
+
+  .section-desk {
+    display: none;
+  }
+
+  .section-tablet {
+    display: block !important;
+  }
+
+  figure {
+    width: 90%;
+    padding-right: 0px;
+  }
+
+  .img-crea {
+    width: 100%;
+  }
+
+  .title-creation h2 {
+    width: 100%;
+    margin: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  /* ===============FOOTER=============== */
+
+  .menu-copy {
+    display: flex;
+    flex-direction: column;
+  }
+  .menu-footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .copyright {
+    text-align: center;
+  }
+
+  .logo-footer {
+    margin: auto;
+  }
+
+  .logo-social {
+    display: none;
+  }
+
+  .logo-social-phone {
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+}
+
+@media all and (max-width: 1000px) and (min-width: 500px) {
+  /* ===============SECTION=============== */
+  .section-container {
+    flex-direction: column;
+  }
+
+  .img-section {
+    margin: auto;
+  }
+
+  .txt-section {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    position: static;
+    padding: 0;
+    padding-top: 8vw;
+  }
+
+  h2 {
+    font-size: 48px;
+    text-align: center;
+  }
+
+  .txt-section p {
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.8;
+  }
+}

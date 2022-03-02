@@ -1,0 +1,18 @@
+@media all and (min-width: 900px) {
+  .hamburger {
+    display: none;
+  }
+}
+
+@media all and (min-width: 1441px) {
+  section {
+    width: 75%;
+    margin: auto;
+  }
+}
+
+@media all and (min-width: 375px) {
+  .btn-phone {
+    display: none;
+  }
+}
