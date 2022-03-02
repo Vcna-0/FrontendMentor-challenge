@@ -1,5 +1,9 @@
 ### FrontendMentor-challenge 📝
 
+---
+
+# My solutions 
+
 - [Interactive pricing component](https://github.com/Vcna-0/FrontendMentor-challenges/tree/main/Interactive-pricing-component)   
 - [Intro component with sign up form](https://github.com/Vcna-0/FrontendMentor-challenges/tree/main/Intro-component-with-sign-up-form)   
 - [Loopstudios landing page](https://github.com/Vcna-0/FrontendMentor-challenges/tree/main/Loopstudio)   
