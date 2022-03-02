@@ -1,6 +1,6 @@
 # FrontendMentor-challenge 📝
 
-- [My profile](www.frontendmentor.io/profile/vcna-0)
+- [My profile](https://www.frontendmentor.io/profile/Vcna-0)
 
 ---
 
