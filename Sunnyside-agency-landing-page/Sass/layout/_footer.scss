@@ -1,0 +1,19 @@
+footer {
+  background-color: hsl(168, 44%, 70%);
+}
+
+.container-footer {
+  margin: auto;
+  text-align: center;
+  padding: min(4.5rem, 15%);
+}
+
+.container-footer .nav {
+  padding: 2.5rem 0 5.625rem 0;
+}
+
+.container-social-media {
+  display: flex;
+  justify-content: center;
+  gap: 1.563rem;
+}

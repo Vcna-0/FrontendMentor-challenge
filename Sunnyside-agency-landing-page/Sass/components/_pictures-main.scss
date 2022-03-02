@@ -1,0 +1,15 @@
+.picture-container {
+  width: 50%;
+}
+
+.picture-container img {
+  width: 100%;
+  height: 100%;
+}
+
+@media #{$medium} {
+  .picture-container {
+    width: 100%;
+    order: -1;
+  }
+}

@@ -1,0 +1,18 @@
+.link-footer {
+  @extend %link;
+  color: $Pclr-dark-moderate-cyan;
+
+  &:hover {
+    color: $Sclr-White;
+  }
+
+  &:nth-child(2) {
+    margin: 3.75rem;
+  }
+}
+
+@media #{$small} {
+  .link-footer:nth-child(2) {
+    margin: min(3.75rem, 10%);
+  }
+}

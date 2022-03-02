@@ -1,0 +1,12 @@
+.item-link {
+  @extend %link;
+  margin: 0 1.438rem;
+  color: $Sclr-White;
+}
+
+@media #{$medium} {
+  .item-link {
+    @extend %link;
+    color: $Sclr-Grayish-blue;
+  }
+}

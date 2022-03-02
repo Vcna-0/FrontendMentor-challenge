@@ -1,0 +1,21 @@
+.btn-contact {
+  @extend %btn;
+  background-color: $Sclr-White;
+
+  &:hover {
+    cursor: pointer;
+    background-color: rgba($Sclr-White, 0.5);
+  }
+}
+
+@media #{$medium} {
+  .btn-contact {
+    @extend %btn;
+    background-color: $Pclr-yellow;
+
+    &:hover {
+      cursor: pointer;
+      background-color: rgba($Pclr-yellow, 0.5);
+    }
+  }
+}

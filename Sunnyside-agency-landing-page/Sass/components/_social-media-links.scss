@@ -1,0 +1,7 @@
+.social-media svg {
+  fill: hsl(168, 45%, 32%);
+
+  &:hover {
+    fill: $Sclr-White;
+  }
+}

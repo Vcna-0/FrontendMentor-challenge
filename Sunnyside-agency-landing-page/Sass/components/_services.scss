@@ -1,0 +1,85 @@
+.services {
+  width: 50%;
+  padding: min(8.2rem, 9%);
+}
+
+h2 {
+  font-family: $ff-fraunces;
+  font-weight: $fw-900;
+  font-size: 2.5rem;
+}
+
+.services p {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+  font-family: $ff-barlow;
+  font-size: 1.125rem;
+  color: $Sclr-Dark-grayish-blue;
+}
+
+.background-cherry {
+  background-image: url("images/desktop/image-graphic-design.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.background-orange {
+  background-image: url("images/desktop/image-photography.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.specialization {
+  position: relative;
+  width: 50%;
+}
+
+.specialization-text {
+  position: absolute;
+  padding-left: 9.25rem;
+  padding-right: 9.25rem;
+  bottom: 3.68rem;
+  text-align: center;
+}
+
+.blue {
+  color: $Pclr-dark-blue;
+}
+
+.green {
+  color: $Pclr-dark-desaturated-cyan;
+}
+
+h3 {
+  font-family: $ff-fraunces;
+  font-size: 1.75rem;
+}
+
+.specialization-text p {
+  font-family: $ff-barlow;
+  font-size: 1.125rem;
+  margin-top: 3rem;
+}
+
+@media #{$medium} {
+  .services {
+    width: 100%;
+    text-align: center;
+    transition: ease all 0.5s;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .specialization {
+    width: 100%;
+  }
+
+  .specialization-text {
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+  }
+}

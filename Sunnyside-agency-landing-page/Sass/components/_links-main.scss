@@ -1,0 +1,33 @@
+.link-main {
+  @extend %link-main;
+  position: relative;
+  color: $Sclr-very-dark-desaturated-blue;
+
+  &::before {
+    content: "";
+    position: absolute;
+    height: 10px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.5;
+    top: 13px;
+    border-radius: 50px;
+    transition: 0.15s;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+}
+
+.yellow {
+  &::before {
+    background-color: $Pclr-yellow;
+  }
+}
+
+.red {
+  &::before {
+    background-color: $Pclr-soft-red;
+  }
+}

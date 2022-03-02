@@ -1,0 +1,48 @@
+.testimonial {
+  text-align: center;
+  width: 25%;
+}
+
+.testimonial img {
+  border-radius: 50%;
+  width: 4.375rem;
+  height: 4.375rem;
+}
+
+.testimonial .text {
+  margin: 3.125rem 0 3.75rem 0;
+  font-family: $ff-barlow;
+  color: $Sclr-Dark-grayish-blue;
+  font-size: 1rem;
+}
+
+.testimonial .name {
+  font-family: $ff-fraunces;
+  font-weight: $fw-900;
+}
+
+.testimonial .job {
+  font-family: $ff-barlow;
+  color: $Sclr-Grayish-blue;
+  font-size: 0.875rem;
+}
+
+@media #{$medium} {
+  .testimonial {
+    width: 50%;
+  }
+
+  .testimonial .text {
+    margin: 1.875rem 0 1.875rem 0;
+  }
+
+  .testimonials .testimonial:nth-child(2) {
+    padding: 4rem 0 4rem 0;
+  }
+}
+
+@media #{$small} {
+  .testimonial {
+    width: 90%;
+  }
+}

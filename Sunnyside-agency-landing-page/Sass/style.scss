@@ -1,0 +1,19 @@
+@import "abstracts/_variables";
+@import "abstracts/_responsives";
+@import "abstracts/_placeholders";
+
+@import "base/_base.scss";
+
+@import "layout/_navigation.scss";
+@import "layout/_header.scss";
+@import "layout/_main.scss";
+@import "layout/_footer.scss";
+
+@import "components/_buttons.scss";
+@import "components/_links-nav.scss";
+@import "components/_links-main.scss";
+@import "components/_services.scss";
+@import "components/_pictures-main.scss";
+@import "components/_testimonial.scss";
+@import "components/_social-media-links.scss";
+@import "components/_links-footer.scss";
