@@ -1,0 +1,71 @@
+@media all and (max-width: 600px) {
+  .container {
+    max-width: 375px;
+    margin: auto;
+  }
+
+  header > h1 {
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+  }
+
+  header > p {
+    font-size: 0.813rem;
+    width: 55%;
+    margin: auto;
+    line-height: 23px;
+  }
+
+  aside {
+    max-width: 327px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  .tariff {
+    margin: auto;
+    font-size: 0.75rem;
+  }
+
+  .price-phone {
+    display: block;
+    text-align: center;
+  }
+
+  .info .price-desk {
+    display: none;
+  }
+
+  .progress .progress-bar {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+  .progress .monthly {
+    font-size: 12px;
+  }
+
+  .discount-desk {
+    display: none;
+  }
+  .discount-mobile {
+    display: inline;
+  }
+
+  .start {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .start ul {
+    margin-left: 0px;
+  }
+
+  .start button {
+    margin-top: 32px;
+  }
+
+  .attribution {
+    font-size: 0.7rem;
+  }
+}

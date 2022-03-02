@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap" rel="stylesheet"> 
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+    
+    <title>Frontend Mentor | Interactive pricing component</title>
+  </head>
+
+  <body>
+    <main class="container">
+      <header>
+        <h1>Simple, traffic-based pricing</h1>
+        <p>Sign-up for our 30-day trial. No credit card required.</p>
+      </header>      
+
+      <aside>
+        <!-- price bar -->
+        <div class="info">
+          <div class="tariff">
+            <div class="page-views"> 
+              <span>100K</span> pageviews
+            </div>
+          </div>
+          <div class="price price-desk"> 
+            <span>$<span class="pricefix">16</span>.00</span>
+            <span class="month">/month</span>
+          </div>
+        </div>
+
+        <!-- progress bar -->
+        <div class="progress">
+          <div class="progress-bar">
+            <input type="range" min="1" max="5" step="1" value="3" class="myrange" aria-label="range">
+          </div>
+
+          <div class="price price-phone"> 
+            <span>$<span class="pricefix-phone">16</span>.00</span>
+            <span class="month-phone">/month</span>
+          </div>
+        
+          <div class="monthly">
+            <span>Monthly Billing</span>
+            <label class="switch">
+              <input type="checkbox" aria-label="checkbox">
+              <span class="slider"></span>
+            </label>
+            <span>Yearly Billing</span>
+            <span class="discount discount-desk">25% discount</span>
+            <span class="discount discount-mobile">-25%</span>
+          </div>
+
+        </div>    
+
+        <hr>
+
+        <!-- features -->
+        <div class="start">
+          <ul>
+            <li>Unlimited websites</li>
+            <li>100% data ownership</li>
+            <li>Email reports</li>
+          </ul>
+          <button>Start my trial</button>
+        </div>
+      </aside>
+    </main>
+    
+    <footer class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/Vcna-0">Vcna-0</a>.
+    </footer>
+
+    <script src="index.js"></script>
+  </body>
+</html>
