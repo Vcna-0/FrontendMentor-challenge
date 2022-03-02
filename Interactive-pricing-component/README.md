@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
-- [Live Site URL](https://vcna-0.github.io/Interactive-pricing-component/)
+- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Interactive-pricing-component/)
 
 ## My process
 
