@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Add solution URL here](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
+- [Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
 - [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
 
 ## My process
