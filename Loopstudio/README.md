@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Add solution URL here](https://your-solution-url.com)
-- [Live URL](https://vcna-0.github.io/Loopstudio)
+- [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
 
 ## My process
 
