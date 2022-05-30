@@ -2,6 +2,11 @@
 
 This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Coded by [me](https://github.com/Vcna-0) 
 
+### Links
+
+- [Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
+- [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -27,11 +32,6 @@ Users should be able to:
 ### Screenshot
 
 ![](design/desktop-preview.jpg)
-
-### Links
-
-- [Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
-- [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
 
 ## My process
 
