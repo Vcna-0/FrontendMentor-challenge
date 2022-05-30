@@ -4,8 +4,8 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links :link:
 
-:large_blue_circle: - [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
-:large_blue_circle: - [Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
+- [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
+- [Solution](https://www.frontendmentor.io/solutions/loopstudios-landing-page-3GfKRxX4u)
 
 
 ## Table of contents
