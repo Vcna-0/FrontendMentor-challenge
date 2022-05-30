@@ -1,6 +1,10 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. Coded by [Vcna-0](https://github.com/Vcna-0)
+### Links
+
+- [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Time-tracking-dashboard/)
+- [Solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-css-grid-TQ6uh7z95)
+
 
 ## Table of contents
 
@@ -39,11 +43,6 @@ Users should be able to:
     <img src="images/screenshots/mobile.png" alt=""/>
   </p>
 </details>
-
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-css-grid-TQ6uh7z95)
-- [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Time-tracking-dashboard/)
 
 ## My process
 
