@@ -1,7 +1,5 @@
 # Frontend Mentor - Loopstudios landing page solution
 
-This is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Coded by [me](https://github.com/Vcna-0) 
-
 ### Links :link:
 
 - [Live URL](https://vcna-0.github.io/FrontendMentor-challenges/Loopstudio/)
