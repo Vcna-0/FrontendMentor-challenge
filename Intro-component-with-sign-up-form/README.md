@@ -1,6 +1,10 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+### Links :link:
+
+- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Intro-component-with-sign-up-form/)
+- [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-with-html5-css-and-js-5NyDE3560)
+
 
 ## Table of contents
 
@@ -49,11 +53,6 @@ Users should be able to:
     <img src="images/screenshots/mobile.png" alt=""/>
   </p>
 </details>
-
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-with-html5-css-and-js-5NyDE3560)
-- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Intro-component-with-sign-up-form/)
 
 ## My process
 
