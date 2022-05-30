@@ -1,6 +1,10 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
-This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects. Coded by [Vcna-0](https://github.com/Vcna-0)
+### Links :link:
+
+- [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Sunnyside-agency-landing-page/)
+- [Solution](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-html5-flexbox-and-sass-7DFcuLS-7)
+
 
 ## Table of contents
 
@@ -38,11 +42,6 @@ Users should be able to:
     <img src="images/screenshots/mobile.png" alt=""/>
   </p>
 </details>
-
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-html5-flexbox-and-sass-7DFcuLS-7)
-- [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Sunnyside-agency-landing-page/)
 
 ## My process
 
