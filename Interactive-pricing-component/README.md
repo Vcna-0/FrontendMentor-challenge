@@ -1,6 +1,10 @@
 # Frontend Mentor - Interactive pricing component solution
 
-This is a solution to the [Interactive pricing component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+### Links :link:
+
+- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Interactive-pricing-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/interactivepricingcomponent-htmlcss-and-javascript-BcEnoy4h5)
+
 
 ## Table of contents
 
@@ -26,10 +30,6 @@ Users should be able to:
 
 ![](design/desktop-preview.jpg)
 
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/interactivepricingcomponent-htmlcss-and-javascript-BcEnoy4h5)
-- [Live Site URL](https://vcna-0.github.io/FrontendMentor-challenges/Interactive-pricing-component/)
 
 ## My process
 
