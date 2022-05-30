@@ -1,6 +1,6 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-### Links
+### Links 🔗
 
 - [Live site URL](https://vcna-0.github.io/FrontendMentor-challenges/Time-tracking-dashboard/)
 - [Solution](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-css-grid-TQ6uh7z95)
